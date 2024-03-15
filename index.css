@@ -1,0 +1,15 @@
+body
+{
+    background: hsl(0, 7%, 95%);
+}
+p{
+    color: #161515;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#by{
+    text-align: right;
+}
